@@ -1,0 +1,5 @@
+my1_2exAemplLe_3namek
+ class kij()
+def my_skript(self,sumer):
+ if sumer == max:
+nju_kD56Zmk
