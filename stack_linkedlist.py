@@ -1,8 +1,8 @@
-import exper2
+import linked_list_impoet
 
 class Stack:
     def __init__(self):
-        self.lst = exper2.Linkedlist()
+        self.lst = linked_list_impoet.Linkedlist()
 
     def push(self, value):
         self.lst.add(value)
