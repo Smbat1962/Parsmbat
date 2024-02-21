@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.integrate import odeint
 
-
+#dx^2/dt^2 + 2*v*dx/dt + w^2*x = (f/m)*cos(c*t)
 w = 20
 v = 0.3
 f = 0.4
