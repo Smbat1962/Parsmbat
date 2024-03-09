@@ -1,2 +1,2 @@
 # Parsmbat
-##  Сreate Data Structurs
+##  Modeling of physical problems and phenomena
